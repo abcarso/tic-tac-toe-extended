@@ -4,8 +4,7 @@ This code was written in 2022 in IntelliJ for a Clemson CPSC class.
 
 It was written based on the following requirements.
 
-Requirements Analysis
-Functional Requirements:
+# Functional Requirements:
 1. As a player I can print the game board so that I can see the current state of the game board.
 2. As a player I can place a marker on the game board so that I can take my turn.
 3. As a player I can input where my piece is placed so that I can control where my piece goes.
@@ -21,7 +20,7 @@ move is legal.
 11. As a player I can lose when my opponent places five markers in a row so that I have a lose 
 condition.
 12. As a player I have the option to play again so that I can choose to play again.
-Non-Functional Requirements
+# Non-Functional Requirements
 1. System must be written in Java.
 2. System must compile and run in a linux environment.
 3. Must allow for two players to play.
